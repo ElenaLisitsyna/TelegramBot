@@ -62,7 +62,7 @@ public class PythagoreanSquareCalculator {
             System.out.printf("%d: %d%n", i, pythagoreanSquare[i]);
         }
 
-        scanner.close();
+        scanner.close(); //commit test
     }
 }
 
