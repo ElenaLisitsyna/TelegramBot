@@ -65,4 +65,5 @@ public class PythagoreanSquareCalculator {
         scanner.close();
     }
 }
+ //aboba
 
