@@ -65,5 +65,5 @@ public class PythagoreanSquareCalculator {
         scanner.close(); //commit test
     }
 }
- //aboba
+ //eeeee
 
